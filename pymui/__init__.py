@@ -1,15 +1,16 @@
 MaterialUI = require ('@material-ui/core')
 MaterialUI_lab = require ('@material-ui/lab')
 
+AppBar = MaterialUI.AppBar
 Box = MaterialUI.Box
 Button = MaterialUI.Button
-AppBar = MaterialUI.AppBar
-Tabs = MaterialUI.Tabs
-Tab = MaterialUI.Tab
+Card = MaterialUI.Card
 Grid = MaterialUI.Grid
 Paper = MaterialUI.Paper
-Card = MaterialUI.Card
+Slider = MaterialUI.Slider
+Tab = MaterialUI.Tab
+Tabs = MaterialUI.Tabs
 
-TabPanel = MaterialUI_lab.TabPanel
-TabList = MaterialUI_lab.TabList
 TabContext = MaterialUI_lab.TabContext
+TabList = MaterialUI_lab.TabList
+TabPanel = MaterialUI_lab.TabPanel
